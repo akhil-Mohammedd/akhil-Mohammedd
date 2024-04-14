@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Mohammed Akhil
+- 👀 I’m interested in WebDevelopment and Cybersecurity
+- 🌱 I’m currently learning basics of Cyber Security and javaScript
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reach me at akhil.mohammedd@gmail.com 
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: ...
