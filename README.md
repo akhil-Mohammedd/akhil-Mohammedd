@@ -1,108 +1,165 @@
-# Hi there, I'm Mohammed Akhil 👋
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-### Computer Science Graduate | Software Developer | Exploring Data Engineering & Cloud
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohammed%20Akhil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20Engineering%20%26%20Cloud%20Explorer&descAlignY=60&descSize=18" width="100%" alt="header"/>
 
-I'm a Computer Science graduate passionate about building practical software, solving problems, and learning how systems work behind the scenes. I enjoy turning ideas into working applications and continuously improving my development skills.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mohammed+Akhil+%F0%9F%91%8B;Computer+Science+Graduate+%F0%9F%8E%93;Building+practical+software+%F0%9F%92%BB;Exploring+Data+Engineering+%26+Cloud+%E2%98%81%EF%B8%8F;Keep+learning.+Keep+building.+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🎓 **Education:** B.Tech in Computer Science & Information Technology
-- 💻 **Languages:** Java, Python, C, JavaScript, SQL
-- 🛠️ **Interests:** Backend Development, Data Engineering, Cloud Computing, DevOps, and AI-powered applications
-- 🚀 **Currently exploring:** Scalable applications, APIs, databases, automation, and modern development workflows
-- 🎯 **Goal:** Build useful, reliable software and contribute to meaningful projects
-- 🤝 **Open to:** Collaborations, open-source contributions, and opportunities to learn and grow
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
+<a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&logo=github&color=181717" alt="followers"/></a>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square" alt="open to collaboration"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science graduate** who enjoys turning ideas into working applications, solving problems, and understanding how systems work behind the scenes.
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech in Computer Science & Information Technology |
+| 💻 **Core Languages** | Java · Python · C · JavaScript · SQL |
+| 🛠️ **Interests** | Backend Development · Data Engineering · Cloud · DevOps · AI-powered apps |
+| 🚀 **Exploring** | Scalable applications, APIs, databases, automation, modern dev workflows |
+| 🎯 **Goal** | Build useful, reliable software and contribute to meaningful projects |
+| 🤝 **Open to** | Collaborations, open-source contributions, and learning opportunities |
 
 ---
 
 ## 🧰 Tech Stack
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
 
-### Development & Databases
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+**Languages**
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,c,js,mysql&theme=dark" alt="languages"/>
 
-### Data & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+**Frameworks & Databases**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres&theme=dark" alt="frameworks and databases"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,aws,vscode&theme=dark" alt="tools"/>
+
+**Data & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn&theme=dark" alt="data and ml"/>
+
+</div>
+
+> 💡 Also working with **Microsoft SQL Server** for relational database design and querying.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 VideoCollab — Creator–Editor Collaboration Platform
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-A full-stack platform designed to help content creators and video editors collaborate on video production workflows.
+### 🎬 VideoCollab
+**Creator–Editor Collaboration Platform**
 
-- Built with the MERN stack.
-- Developed RESTful APIs for application functionality.
-- Explored creator workflows and YouTube publishing integration.
-- Focused on simplifying collaboration between creators and freelancers.
+A full-stack platform that helps content creators and video editors collaborate on video production workflows.
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB, REST APIs
+- Built with the MERN stack
+- Developed RESTful APIs for core functionality
+- Explored creator workflows and YouTube publishing integration
+- Simplifies collaboration between creators and freelancers
 
-<!-- Add your project repository link here -->
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+<!-- 🔗 Add repo link: [View Project](https://github.com/YOUR_USERNAME/VideoCollab) -->
+
+</td>
+    <td width="50%" valign="top">
 
 ### 📊 Python Data Science Projects
+**Data analysis & machine learning**
 
-Exploring data analysis, data manipulation, and machine learning through Python-based projects.
+Hands-on projects exploring data manipulation, analysis, and ML fundamentals.
 
-- Working with structured datasets.
-- Exploring data analysis using Pandas and NumPy.
-- Learning machine learning concepts with Scikit-learn.
+- Working with structured datasets
+- Data analysis using Pandas and NumPy
+- Learning ML concepts with Scikit-learn
 
-<!-- Add your data science repositories here -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### 💡 More Projects Coming Soon
+<!-- 🔗 Add repo link: [View Project](https://github.com/YOUR_USERNAME/your-repo) -->
 
-I'm continuously experimenting with new ideas, improving existing projects, and building applications that solve practical problems.
+</td>
+  </tr>
+</table>
+
+> 💡 **More projects coming soon:** I'm continuously experimenting with new ideas and building applications that solve practical problems.
 
 ---
 
 ## 📚 What I'm Learning
 
-- Data structures and algorithms using Java
-- Backend engineering and API design
-- Database design and SQL
-- Data engineering and automated data pipelines
-- Linux, scripting, cloud infrastructure, and DevOps fundamentals
-- Software architecture, testing, security, and deployment
+<div align="center">
+
+| Focus Area | Topics |
+|:---|:---|
+| 🧮 **DSA** | Data structures and algorithms using Java |
+| ⚙️ **Backend** | Backend engineering and API design |
+| 🗄️ **Databases** | Database design and SQL |
+| 🔄 **Data Engineering** | Automated data pipelines |
+| ☁️ **Cloud & DevOps** | Linux, scripting, cloud infrastructure, DevOps fundamentals |
+| 🏗️ **Engineering** | Software architecture, testing, security, deployment |
+
+</div>
 
 ---
 
-## 📈 GitHub Journey
+## 📈 GitHub Stats
 
-I believe consistency matters more than perfection. My goal is to use GitHub to document my learning, build projects, share useful code, and collaborate with other developers.
+<div align="center">
 
-I'm working toward creating a portfolio of practical, well-documented projects rather than simply collecting repositories.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+
+</div>
+
+> I believe **consistency matters more than perfection**. I use GitHub to document my learning, build projects, and collaborate. My focus is a portfolio of practical, well-documented projects rather than a pile of repositories.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, learning from the community, and collaborating on interesting ideas.
+<div align="center">
 
-- 💼 LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
-- 🌐 Portfolio: [Add your portfolio URL](https://github.com/)
-- 📧 Email: [Add your professional email](mailto:your.email@example.com)
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
----
+<br/><br/>
 
 ⭐ **Thanks for visiting my profile!** Feel free to explore my repositories, share feedback, or connect with me.
 
-*Keep learning. Keep building. Keep improving.* 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Keep+learning.+Keep+building.+Keep+improving.+%F0%9F%9A%80" alt="footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
